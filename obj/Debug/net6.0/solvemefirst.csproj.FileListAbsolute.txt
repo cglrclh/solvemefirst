@@ -1,0 +1,15 @@
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\solvemefirst\bin\Debug\net6.0\solvemefirst.exe
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\solvemefirst\bin\Debug\net6.0\solvemefirst.deps.json
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\solvemefirst\bin\Debug\net6.0\solvemefirst.runtimeconfig.json
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\solvemefirst\bin\Debug\net6.0\solvemefirst.dll
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\solvemefirst\bin\Debug\net6.0\solvemefirst.pdb
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\solvemefirst\obj\Debug\net6.0\solvemefirst.csproj.AssemblyReference.cache
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\solvemefirst\obj\Debug\net6.0\solvemefirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\solvemefirst\obj\Debug\net6.0\solvemefirst.AssemblyInfoInputs.cache
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\solvemefirst\obj\Debug\net6.0\solvemefirst.AssemblyInfo.cs
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\solvemefirst\obj\Debug\net6.0\solvemefirst.csproj.CoreCompileInputs.cache
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\solvemefirst\obj\Debug\net6.0\solvemefirst.dll
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\solvemefirst\obj\Debug\net6.0\refint\solvemefirst.dll
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\solvemefirst\obj\Debug\net6.0\solvemefirst.pdb
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\solvemefirst\obj\Debug\net6.0\solvemefirst.genruntimeconfig.cache
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\solvemefirst\obj\Debug\net6.0\ref\solvemefirst.dll
